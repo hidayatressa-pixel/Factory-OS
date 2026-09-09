@@ -1,0 +1,6 @@
+{
+  "name": "FACTORY OS",
+  "description": "Modular shop-floor operations platform for small and medium manufacturing enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
